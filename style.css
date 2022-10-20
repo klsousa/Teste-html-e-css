@@ -1,0 +1,73 @@
+body{
+    background-color: #504d4d9a;
+}
+.conteudo{
+	margin: auto;
+	min-width: 320;
+	max-width: 800px;
+}
+.btn{
+    position:relative;  
+	background-color: #504d4d9a;
+	border-radius: 10px;	
+	color: #fff;
+	font-size: 14px;
+	padding: 5px;
+	width: 70%;
+	margin-left: 15%;
+	margin-bottom: 5px;
+	top: 200px;
+
+}
+.pesquisar{
+    position:relative;  
+	background-color: #cc510af6;
+	border-radius: 10px;	
+	color: #fff;
+	font-size: 14px;
+	padding: 5px;
+	width: 70%;
+	margin-left: 15%;
+	margin-bottom: 5px;
+	top: 200px;
+}
+.logo-face{
+	position: absolute;
+	width: 25px;
+	background-color: #F07D00;
+	border-radius: 50px;
+	margin: auto;
+	left: 41.63%;
+	right: 61.64%;
+	top: 500px;
+	bottom: 34.87%;
+}
+.logo-insta{
+	position: absolute;
+	width: 25px;
+	background-color: #F07D00;
+	border-radius: 50px;
+	margin: auto;
+	left: 49.63%;
+	right: 65.64%;
+	top: 500px;
+	bottom: 34.87%;
+}
+.logo-site{
+	position: absolute;
+	width: 25px;
+	background-color: #F07D00;
+	border-radius: 50px;
+	margin: auto;
+	left: 57.63%;
+	right: 61.64%;
+	top: 500px;
+	bottom: 34.87%;
+}
+.logo{
+	position:absolute;
+	border-radius: 100px;
+	top: 30px;
+	left: 130px;
+	width: 30%;
+}
