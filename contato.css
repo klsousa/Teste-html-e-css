@@ -1,7 +1,7 @@
 body {
   background-color: #504d4d9a;
 }
-.contatoinfo{
+.contatoinfo {
   margin-right: auto;
   margin-left: auto;
   bottom: 250px;
@@ -13,47 +13,70 @@ body {
   padding: 10px;
   top: 150px;
 }
-.infoBox div{
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
+.infoBox div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
 }
-.infoBox div span{
-    min-width: 40px;
-    height: 40px;
-    justify-content: center;
-    justify-items: center;
-    margin-left: 15px;   
+.infoBox div span {
+  min-width: 40px;
+  height: 40px;
+  justify-content: center;
+  justify-items: center;
+  margin-left: 15px;
 }
-.infoBox div p{
-    font-size: 1.1em;
+.infoBox div p {
+  font-size: 1.1em;
 }
-.infoBox div a{
-    color: rgb(5, 5, 5);
-    text-decoration: none;
-    font-size: 1.1em;
+.infoBox div a {
+  color: rgb(5, 5, 5);
+  text-decoration: none;
+  font-size: 1.1em;
 }
 .redes-socias {
-    justify-content: space-around;
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-  }
-  .logo-face {
-    width: 25px;
-    background-color: #f07d00;
-    border-radius: 50px;
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.logo-face {
+  width: 25px;
+  background-color: #f07d00;
+  border-radius: 50px;
+  margin-top: 10px;
+}
+.logo-insta {
+  width: 25px;
+  background-color: #f07d00;
+  border-radius: 50px;
+  margin-top: 10px;
+}
+.logo-site {
+  width: 25px;
+  background-color: #f07d00;
+  border-radius: 50px;
+  margin-top: 10px;
+}
+.faleconosco{
+  background-color: #504d4d9a;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 14px;
+  padding: 5px;
+  width: 70%;
+  margin-left: 15%;
+  margin-bottom: 5px;
+  top: 15px;
+}
+.logo {
     margin-top: 10px;
-  }
-  .logo-insta {
-    width: 25px;
-    background-color: #f07d00;
-    border-radius: 50px;
-    margin-top: 10px;
-  }
-  .logo-site {
-    width: 25px;
-    background-color: #f07d00;
-    border-radius: 50px;
-    margin-top: 10px;
-  }
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    display: block;
+    width: 65px;
+}
+.logoimg {
+  border-radius: 150px;
+  width: 65px; 
+}
