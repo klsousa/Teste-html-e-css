@@ -1,0 +1,101 @@
+body {
+  background-color: #504d4d9a;
+}
+.box {
+  margin-right: auto;
+  margin-left: auto;
+  bottom: 250px;
+  max-width: 300px;
+  background-color: #fff;
+  border-radius: 15px 15px 15px 15px;
+  -webkit-box-shadow: 3px 3px 5px 2px #d1d1d1;
+  box-shadow: 3px 3px 5px 2px #d1d1d1;
+  padding: 10px;
+  top: 150px;
+}
+.btn {
+  background-color: #504d4d9a;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 14px;
+  padding: 5px;
+  width: 70%;
+  margin-left: 15%;
+  margin-bottom: 5px;
+  top: 15px;
+}
+.pesquisar {
+  background-color: #cc510af6;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 14px;
+  padding: 5px;
+  width: 70%;
+  margin-left: 15%;
+  margin-bottom: 5px;
+  top: 15px;
+}
+.redes-socias {
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.logo-face {
+  width: 25px;
+  background-color: #f07d00;
+  border-radius: 50px;
+  margin-top: 10px;
+}
+.logo-insta {
+  width: 25px;
+  background-color: #f07d00;
+  border-radius: 50px;
+  margin-top: 10px;
+}
+.logo-site {
+  width: 25px;
+  background-color: #f07d00;
+  border-radius: 50px;
+  margin-top: 10px;
+}
+.logo {
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  display: block;
+  width: 65px;
+}
+.logoimg {
+  border-radius: 150px;
+  width: 65px; 
+}
+.contato-info{
+	margin-right: auto;
+	margin-left: auto;
+	bottom: 250px;
+	max-width: 300px;
+	background-color: #fff;
+	border-radius: 15px 15px 15px 15px;
+	-webkit-box-shadow: 3px 3px 5px 2px #d1d1d1;
+	box-shadow: 3px 3px 5px 2px #d1d1d1;
+	padding: 10px;
+	top: 150px;
+}
+.infoBox{
+	background-color: #504d4d9a;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 14px;
+  padding: 5px;
+  width: 70%;
+  margin-left: 15%;
+  margin-bottom: 5px;
+  top: 15px;
+}
+@media (min-width: 480px) {
+  .box {
+    padding: 50px;
+  } 
+}
